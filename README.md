@@ -1,0 +1,1 @@
+Showcased hands-on SQL practice projects from various platforms, focusing on data cleaning, complex queries, data aggregation, and report generation using MySQL Workbench. Demonstrated ability to solve real-world data problems and deliver actionable insights.
